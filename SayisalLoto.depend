@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1629942147 source:c:\users\casper\desktop\sayisalloto\sayisalloto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
